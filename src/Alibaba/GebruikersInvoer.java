@@ -9,6 +9,6 @@ public class GebruikersInvoer {
         System.out.println("Voer tekst in: ");
         String tekst = s.nextLine();
         System.out.println(tekst.length());
-
+// var werkt bij mij niet, ik moest String gebruiken.
     }
 }
